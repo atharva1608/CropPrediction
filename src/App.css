@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+#labelText{
+display: flex;
+}
+
+#N{
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+#P{
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+#K{
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+#temp{
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+#humi{
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+/* #ph{
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+#rainfall{
+  margin-top: 0px;
+  margin-left: 10px;
+} */
